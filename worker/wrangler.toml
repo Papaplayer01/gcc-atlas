@@ -1,0 +1,8 @@
+name = "gcc-atlas-api"
+main = "worker.js"
+compatibility_date = "2025-01-01"
+
+[vars]
+# Your GitHub Pages address, without a path. Several can be separated by commas.
+ALLOWED_ORIGIN = "https://papaplayer01.github.io"
+# MODEL = "claude-sonnet-5-5"
