@@ -22,7 +22,6 @@ gh auth login
 
 It creates the repository, pushes the code, turns on GitHub Pages and starts the deploy. Your link is printed at the end:
 
-Two separate links to give HR:
 
 - Deck: `https://papaplayer01.github.io/gcc-atlas/deck/`
 - Prototype: `https://papaplayer01.github.io/gcc-atlas/prototype/`
